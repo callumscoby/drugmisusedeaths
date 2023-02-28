@@ -1,5 +1,5 @@
 # drugmisusedeaths
-                                  A contemporary analysis of drug misuse deaths in England
+                            A contemporary analysis of drug misuse deaths in England
 
 In 2021, 2846 deaths in England occurred as a result of poisoning from drug misuse, an 80% rise on 2011 levels (ONS, 2022). Looking at this figure, it would be reasonable to assume that the prevalence of drug misuse itself must also be rising. 
 
